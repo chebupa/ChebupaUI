@@ -1,5 +1,5 @@
 # ChebupaUI
-Basic setup:
+<h3>Basic setup:</h3>
 <br/>
 yarn
 ```
