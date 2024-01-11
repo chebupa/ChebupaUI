@@ -6,7 +6,6 @@
 
 
 ### Basic setup:
-<br/>
 
 yarn
 ```
