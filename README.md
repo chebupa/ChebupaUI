@@ -4,6 +4,7 @@
 </h3>
 
 
+
 # Basic setup
 
 yarn
@@ -19,8 +20,10 @@ npm run dev
 ```
 
 
+
 # Tech stack
 <p></p>
+
 
 
 # React + TypeScript + Vite
