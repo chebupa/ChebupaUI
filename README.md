@@ -1,8 +1,5 @@
-<h1>
-  ChebupaUI
-  <br/>
-  <a href="https://chebupa.github.io">https://chebupa.github.io</a>
-</h1>
+# ChebupaUI
+<a href="https://chebupa.github.io">https://chebupa.github.io</a>
 
 
 # Basic setup:
