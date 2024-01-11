@@ -5,7 +5,7 @@
 </h1>
 
 
-### Basic setup:
+# Basic setup:
 
 yarn
 ```
