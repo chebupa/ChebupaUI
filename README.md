@@ -1,5 +1,12 @@
-# ChebupaUI
-Basic setup:
+<h1>
+  ChebupaUI
+  <br/>
+  <a href="https://chebupa.github.io">https://chebupa.github.io</a>
+</h1>
+
+
+### Basic setup:
+
 yarn
 ```
 yarn
@@ -11,6 +18,7 @@ npm
 npm i
 npm run dev
 ```
+
 
 # React + TypeScript + Vite
 
