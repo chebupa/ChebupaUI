@@ -9,14 +9,12 @@
 
 yarn
 ```
-yarn
-yarn dev
+yarn add chebupaui
 ```
 
 npm
 ```
-npm i
-npm run dev
+npm i chebupaui
 ```
 
 
