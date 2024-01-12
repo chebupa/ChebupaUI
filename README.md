@@ -7,14 +7,14 @@
 
 <h1>Basic setup</h1>
 
-yarn
-```
-yarn add chebupaui
-```
-
 npm
 ```
 npm i chebupaui
+```
+
+yarn
+```
+yarn add chebupaui
 ```
 
 
