@@ -1,7 +1,7 @@
-<h1 align="center">ChebupaUI</h1>
-<h3 align="center">
+<h1 align="center">
+  ChebupaUI<br/>
   <a href="https://chebupa.github.io">https://chebupa.github.io</a>
-</h3>
+</h1>
 
 
 
